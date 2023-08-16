@@ -3,10 +3,7 @@
 <h1 align="center">My Library Account</h1>
 
 
-<div display="flex"><h4 align="left">Telegram Channel</h4>:&nbsp;<a href="https://t.me/BilmerWebLibrary">bilmer web library</a></div>
-
-
-<h4 align="left">Instagram Account</h4>:&nbsp;<a href="https://www.instagram.com/bilmer_library/">bilmer web library</a>
-
-<h4 align="left">Telegram Channel</h4>:&nbsp;<a href="bilmerlibrary@gmail.com">bilmer web library</a>
+<h4 align="left">Telegram Channel:&nbsp;<a href="https://t.me/BilmerWebLibrary">bilmer web library</a></h4>
+<h4 align="left">Instagram Account:&nbsp;<a href="https://www.instagram.com/bilmer_library/">bilmer web library</a></h4>
+<h4 align="left">Telegram Channel:&nbsp;<a href="bilmerlibrary@gmail.com">bilmer web library</a></h4>
 
